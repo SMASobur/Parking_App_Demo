@@ -5,6 +5,7 @@ package se.lexicon;
 public class Main {
     static void main() {
         System.out.println("===Parking App Demo App===");
+System.out.println("===customer details===");
 
     }
 }
