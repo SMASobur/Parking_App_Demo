@@ -4,9 +4,8 @@ package se.lexicon;
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     static void main() {
-        System.out.println("===Parking App Demo App===");
-System.out.println("===customer details===");
-        System.out.println("---Reservation---");
+        System.out.println("===Parking App Demo ===");
+
 
     }
 }
